@@ -5,7 +5,9 @@ Clocky is a webpage based clock that displays the current date and time ( very b
 
 # Preview
 
-[<img align="left" alt="Preview" width="26px" src="https://media.discordapp.net/attachments/865972015503638549/871098438249480223/unknown.png?width=1046&height=518" />]
+<h2 align="center">
+<img src="https://media.discordapp.net/attachments/865972015503638549/871098438249480223/unknown.png?width=1046&height=518">
+</h2>
 
 
 
