@@ -1,6 +1,6 @@
 # Clocky : The only Clock You will ever need
 
-Clocky is a webpage based clock that displays the current date and time ( very basic ). This project was written using [HTML5][html5] , [JavaScript][js] and uses the stylesheet from [Myuu][myuu]. Feel Free to fork this and make it better as it is very basic as of now.
+Clocky is a webpage based clock that displays the current date and time ( very basic ). This project was written using [HTML5][html5] , [JavaScript][js] and BootStrap. Feel Free to fork this and make it better as it is very basic as of now.
 
 
 # Preview
